@@ -26,9 +26,9 @@ body{
 
 }
 .navbar-color a{
-    color:rgba(8, 1, 1, 0.596);
-    font-size: 1.5em;
-    font-weight: bold;
+    color:rgba(0, 0, 0, 0.849);
+    font-size: 1.7em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .price{
     color: #FF136F;
